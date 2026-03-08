@@ -32,7 +32,7 @@ The organization is seeing high revenue but thinning profit margins. Management 
 ---
 
 ## 📈 Visual Highlights
-*(Ensure your images are clear and have descriptive titles)*
+
 ![Sales by Product](https://github.com/user-attachments/assets/e5e24b36-914b-4062-ac8f-65f3f4543b12)
 
 ---
