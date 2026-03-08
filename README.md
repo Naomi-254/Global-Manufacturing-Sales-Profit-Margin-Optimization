@@ -40,7 +40,7 @@ The organization is seeing high revenue but thinning profit margins. Management 
 ## 🚀 Key Recommendations
 1.  **Product Sunsetting:** Phasing out or rebranding the "Montana" line, which consistently underperforms in all regions.
 2.  **Segment Focus:** Double down on **Government and Small Business** contracts, as they provide the most stable revenue streams.
-3.  **Automated Reporting:** Transition this analysis from Excel to **Power BI/SQL** to allow for real-time margin tracking.
+
 
 
 
