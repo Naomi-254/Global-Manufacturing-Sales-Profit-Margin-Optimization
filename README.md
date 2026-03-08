@@ -33,7 +33,7 @@ The organization is seeing high revenue but thinning profit margins. Management 
 
 ## 📈 Visual Highlights
 
-![Sales by Product](https://github.com/user-attachments/assets/e5e24b36-914b-4062-ac8f-65f3f4543b12)
+![image](https://github.com/Naomi-254/Global-Manufacturing-Sales-Profit-Margin-Optimization/blob/65609b7728331794273caab0e933accb48d4fb38/Dashboard.PNG)
 
 ---
 
